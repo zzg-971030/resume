@@ -1,4 +1,4 @@
-# 张贞港 <img src="张贞港.jpg" width = "200" height = "300" alt="" align=center />
+# 张贞港 <img src="张贞港.jpg" width = "200" height = "200" alt="" align=center />
 ## 性别：男
 ## 毕业院校：中南财经政法大学
 ### 研究方向：知识图谱表示；自然语言处理；信息抽取；数据挖掘与商务智能
