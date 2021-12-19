@@ -1,5 +1,5 @@
 # 张贞港 <img src="张贞港.jpg" width = "200" height = "200" alt="" align=right />
-**性别：**<font face="宋体" >男</font>    **年龄：**<font face="宋体" >24</font>  
+**性别：**<font face="宋体" >男</font>\t **年龄：**<font face="宋体" >24</font>  
 
 **性别：**<font face="宋体" >男</font>  
 <font face="宋体" >毕业院校：中南财经政法大学</font> 
